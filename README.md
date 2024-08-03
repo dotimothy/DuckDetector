@@ -1,3 +1,2 @@
-# DuckDetector
- 🦆 A Fun Little Project on Automatically Detecting Ducks!!! 🦆
- **Author:** Timothy Do 
+# 🦆 DuckDetector: A Project for Automatically Detecting Ducks 🦆
+ **Author:** [Timothy Do](https://timothydo.me) 
