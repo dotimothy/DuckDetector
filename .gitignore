@@ -1,2 +1,11 @@
 # Datasets
 data/
+
+# YOLO Runs
+runs/
+
+# YOLO Inference Results
+results/ 
+
+# Baseline YOLO Models
+yolov8n.pt
