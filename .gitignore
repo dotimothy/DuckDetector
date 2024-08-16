@@ -9,3 +9,6 @@ results/
 
 # Baseline YOLO Models
 yolov8n.pt
+
+# All Cache Files
+*.cache
