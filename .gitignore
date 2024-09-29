@@ -9,6 +9,10 @@ results/
 
 # Baseline YOLO Models
 yolov8n.pt
+yolov8x.pt
+
+# All YOLOv8x Models
+models/OpenImageDuck_YOLOv8x.pt
 
 # All Cache Files
 *.cache
