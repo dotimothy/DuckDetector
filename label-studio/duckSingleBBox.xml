@@ -1,0 +1,7 @@
+<View>
+  <Header>🦆Draw Bounding Boxes around the Ducks You See! 🦆</Header>
+  <Image name="image" value="$image"/>
+  <RectangleLabels name="label" toName="image">
+    <Label value="Duck" background="#FF0000"/>
+  </RectangleLabels>
+</View>
